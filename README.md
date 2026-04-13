@@ -1,9 +1,9 @@
-一、小组基本信息
+一、	小组基本信息
 小组名称：水土保持与土壤侵蚀小组
-小组成员：曾令振2025303110063 @zlznevergu；刘家洛2025303120073 @ly9495；陈炳宇2025303110144 @chenbingyu-HZAU
+小组成员：曾令振2025303110063 @zlznevergu ;刘家洛2025303120073 @ly9495 ;陈炳宇2025303110144 @chenbingyu-HZAU 
 项目名称：基于功能视角的中国三峡库区经济林恢复对土壤物理质量影响评估结果复现
 论文信息：
-标题：[评估经济林恢复对中国三峡库区土壤物理质量的影响：一种功能视角](https://webofscience.clarivate.cn/wos/alldb/full-record/WOS:001664678100001)
+标题：[Assessing the impacts of economic forest restoration on soil physical quality in the Three Gorges Reservoir area, China: A functional perspective](https://webofscience.clarivate.cn/wos/alldb/full-record/WOS:001664678100001)
 主题：经济林恢复对中国三峡库区土壤物理质量影响的评估：基于功能视角
 期刊：CATENA
 论文DOI：[DOI10.1016/j.catena.2025.109758](https://webofscience.clarivate.cn/wos/alldb/full-record/WOS:001664678100001)
@@ -61,43 +61,43 @@ ________________________________________
 六、部分图画复现
 图1：比较团聚体平均重量直径（MWD）、土壤可蚀性因子 K 及其综合形成的抗侵蚀与抗退化功能（SPF3）
 原图： 
-图片 宽度="865" 高度="504" 替代文本="图片" 源="https://github.com/user-attachments/assets/d32c259d-6dbb-4c5d-b3cf-46285aa9e853" />
+<img width="865" height="504" alt="Image" src="https://github.com/user-attachments/assets/d32c259d-6dbb-4c5d-b3cf-46285aa9e853" />
 R语言复现图： 
-图片宽度="865" 高度="494" alt="图片" src="https://github.com/user-attachments/assets/cf13e5ff-f569-47c1-8d88-da902377d045" />
+<img width="865" height="494" alt="Image" src="https://github.com/user-attachments/assets/cf13e5ff-f569-47c1-8d88-da902377d045" />
 R语言代码：
- <imgwidth="415" height="1347" alt="图片" src="https://github.com/user-attachments/assets/7032a3cf-cc31-4fd6-ae90-0d78b538c3ab" />
+ <img width="415" height="1347" alt="Image" src="https://github.com/user-attachments/assets/7032a3cf-cc31-4fd6-ae90-0d78b538c3ab" />
 图2：主要说明不同恢复方式与恢复时间对四类土壤功能的综合影响格局
 原图： 
 
-<imgwidth="869" height="433" alt="图片" src="https://github.com/user-attachments/assets/c252acf7-9e19-4821-921b-55ade0721d8f" />
+<img width="869" height="433" alt="Image" src="https://github.com/user-attachments/assets/c252acf7-9e19-4821-921b-55ade0721d8f" />
 
 R语言复现图： 
 
-<imgwidth="853" height="429" alt="图片" src="https://github.com/user-attachments/assets/e939c1ba-41aa-4a3f-99be-ff05b0c56723" />
+<img width="853" height="429" alt="Image" src="https://github.com/user-attachments/assets/e939c1ba-41aa-4a3f-99be-ff05b0c56723" />
 
 R语言代码：
 
-图片 width="890" height="1291" alt="图片" src="https://github.com/user-attachments/assets/058c4727-12b3-4629-96ef-8569ffe9ecb9"
+<img width="890" height="1291" alt="Image" src="https://github.com/user-attachments/assets/058c4727-12b3-4629-96ef-8569ffe9ecb9" />
 
 图3：主要说明不同恢复方式和恢复年限对综合土壤物理质量的总体影响
 原图： 
 
-图片 宽度="816" 高度="1014" 替代文本="图片" 源="https://github.com/user-attachments/assets/ff4fb388-9f9c-4612-9034-c5ae62b5d560" />
+<img width="816" height="1014" alt="Image" src="https://github.com/user-attachments/assets/ff4fb388-9f9c-4612-9034-c5ae62b5d560" />
 
 R语言复现图：
 
-<imgwidth="865" height="1174" alt="图片" src="https://github.com/user-attachments/assets/e118970e-0fe6-45a2-8b48-c7be7103c399" />
+<img width="865" height="1174" alt="Image" src="https://github.com/user-attachments/assets/e118970e-0fe6-45a2-8b48-c7be7103c399" />
 
 R语言代码：
 
-<imgwidth="865" height="1527" alt="图片" src="https://github.com/user-attachments/assets/9bc7038b-79de-4a11-bf6d-c9aa1d797836" />
+<img width="865" height="1527" alt="Image" src="https://github.com/user-attachments/assets/9bc7038b-79de-4a11-bf6d-c9aa1d797836" />
 
 七、复现结果展示
 成功复现了论文中的关键图形，包括土壤容重（BD）、穿透阻力（PR）、饱和导水率（Ks）、有效含水量（AWC）、团聚体平均重量直径（MWD）、土壤可蚀性因子（K）、土壤通气孔隙度（SAC）、中孔隙度（Mesoporosity）及相关土壤功能指标（SPF1–SPF4）和综合土壤物理质量指（SPQI）。
 复现结果表明:
 1.不同恢复类型下土壤物理性质和功能存在明显差异。林地和草地恢复整体上优于耕地，尤其在抗侵蚀功能、通气功能和综合土壤物理质量方面表现更好。经济林恢复虽然改善了部分水分供给和抗退化功能，但在根系支撑功能方面提升有限。
 2.在不同恢复年限下，经济林恢复表现出一定的阶段性变化特征：前期部分土壤功能有所改善，但随着恢复年限增加，综合土壤物理质量变化不大，说明不同土壤功能之间存在一定权衡关系。
-3.此外，所有复现图形均已成功输出，已保存为 PNG 和 PDF 格式，保存在https://github.com/zlznevergu/zlzlunwenfuxian， 基本还原了原论文图形的主要趋势和结果特征。
+3.另外，所有复现图形均已成功输出，已保存为 PNG 和 PDF 格式，保存在https://github.com/zlznevergu/zlzlunwenfuxian， 基本还原了原论文图形的主要趋势和结果特征。
 
 八.总结
 本次复现较好地重现了论文中土壤物理性质、土壤功能和综合土壤质量指数的主要结果。复现结果说明，不同植被恢复方式对土壤物理质量的影响存在显著差异，自然恢复对土壤质量提升更明显，而经济林恢复虽然对部分功能有促进作用，但整体提升效果有限，总体来看，本次复现验证了论文的核心结论，即土壤物理性质的变化会影响不同土壤功能，而各功能之间的协同与权衡最终决定综合土壤物理质量水平，达到了预期复现目标。
