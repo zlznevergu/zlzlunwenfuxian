@@ -14,7 +14,7 @@
 - **主题**：经济林恢复对中国三峡库区土壤物理质量影响的评估：基于功能视角
 - **期刊**：CATENA
 - **DOI**：[10.1016/j.catena.2025.109758](https://doi.org/10.1016/j.catena.2025.109758)
-- **代码/图片仓库**：https://github.com/zlznevergu/zlzlunwenfuxian
+- **代码/图片仓库**：[https://github.com/zlznevergu/zlzlunwenfuxian](https://github.com/zlznevergu/zlzgroup-lunwenfuxian-project)
 
 ---
 
